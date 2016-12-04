@@ -1,0 +1,23 @@
+{
+  "name": "extract-docx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uslperera@github.com/uslperera/extract-docx.git"
+  },
+  "keywords": [
+    "docx",
+    "zip.js"
+  ],
+  "author": "Shamal Perera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uslperera/extract-docx/issues"
+  },
+  "homepage": "https://github.com/uslperera/extract-docx#readme"
+}
